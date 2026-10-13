@@ -6,7 +6,7 @@ tags: [HackTheBox,brainf*ck]
 ---
 
 # Intro
-Today(13 oct 2026) starts the 30 days challenge where I'd be solving one htb machine perday . I've completed the Penetration Tester on HackTheBox Academy and I intend to cook myself into a pentester and do the CPTS 
+Today(13 oct 2026) starts the 30 days challenge where I'd be solving one htb machine perday . I've completed the Penetration Tester on HackTheBox Academy and I intend to cook myself into a pentester and do the CPTS . I planned this idea mainly because I'm broke and want to make use of HTB season 11's season prizes to pay for VIP+ 
 
 # The Goal 
 The Goal of this challenge is not to become the smartest and most creative hacker out there ( that will eventually come !! ) . The Goal is muscle memory and to Turn the material i learned in the pentester path (HTB Academy) into my second nature . I currently can explain around 60% of the course's material so my goal is to not only reach 100% understanding but also make the recall of information instant 
@@ -22,5 +22,5 @@ This is my htb labs profile at this point in time :
 
 # Am I ready ?
 
-hell no ... let's go ! 
+hell no ...but let's go baby !!!!!!!!!!!!!!!!!!!!! First machine is fluffy 
 
