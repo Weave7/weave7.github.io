@@ -22,6 +22,6 @@ And you know it's gonna be heck of a journey when ippsec starts talking about tr
 
 How I'd describe it ? there are too many tricks 
 
-![my brain is not braining](/assets/img/memes/brain-is-dead.png)
+![my brain is not braining](/assets/memes/brain-is-dead.png)
 
 Anyways,Day 2 wrapped up ! 
