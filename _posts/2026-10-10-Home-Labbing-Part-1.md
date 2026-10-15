@@ -19,14 +19,14 @@ this blog is me ranting about the absolute failure that was my first attempt at 
 
 So i picked up a proxmox youtube (creds : [yt video](https://youtu.be/k4MfN0SJa4Y?si=dXrR6IePeyuJVvj5)) Tutorial and started . With all excitement and enthusiasm , past-me had no idea what's coming
 
-![poor happy guy](/assets/img/home-lab-part-1/20261007_114712.jpg){: .shadow, .rounded-10}
+![poor happy guy](/assets/img/home-lab-part-1/20261007_114712.jpg)
 
 
 # THE BIG PROBLEM AND THE BIG IDEA 
 
 going into this i knew that proxmox is built for servers and one of the special things about servers is that they don't come with wifi adapters . So proxmox does not come with wifi drivers installed .the HP laptop does not  have an ethernet port . Smart-past-me thought that won't be a problem . proxmox is debian based -> debian is linux -> linux is freedom . So i will istalll wifi drivers and problem solved 
 
-![all is good](/assets/memes/cat-thumbs-up.jpg) {: .shadow, .rounded-10}
+![all is good](/assets/memes/cat-thumbs-up.jpg) 
 
 ## The big failure part one 
 

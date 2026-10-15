@@ -1,6 +1,6 @@
 --- 
-title: 30-Days-Challenge Day 2 
-date: 2026-10-14
+title: 30-Days-Challenge Day 3 
+date: 2026-10-15
 categories: [30 day challenge]
 tags: [HackTheBox,brainf*ck]
 --- 

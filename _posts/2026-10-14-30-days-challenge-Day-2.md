@@ -20,7 +20,7 @@ for better context ,here's how ippsec introduced this machine : " ...we're doing
 And you know it's gonna be heck of a journey when ippsec starts talking about tricks ...
 'DNS zone transfer , SQL injection , 2 LFIs and then abusing sudo permissions' that's how the humble man who didn't watch ippsec's walkthrough would describe it 
 
-How I'd describe it ? there are too many tricks 
+How I'd describe it ? it's tricky
 
 ![my brain is not braining](/assets/memes/brain-is-dead.png)
 
