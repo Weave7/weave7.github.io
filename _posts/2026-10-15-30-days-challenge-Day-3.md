@@ -11,7 +11,7 @@ Trick , an easy Linux machine , i had so much fun with this one . especially sin
 
 Anyways it was a really fun machine looking forward to tomorrow's 
 
-![pwned](/assets/img/30-days-challenge/Day3/pwned.png)
+![pwned](/assets/img/30-days-challenge/Day3/pwned.webp)
 
 
 # Part 2 : Tomorrow's Machine : Postman ( Easy Linux)

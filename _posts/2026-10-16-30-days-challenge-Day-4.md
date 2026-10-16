@@ -11,11 +11,11 @@ Day 4 . I woke up sick today and also had other responsibilities so i barely fou
 
 Postman , easy Linux . I went through this box trying my best to practice Ippsec's steps in enumerations . It's a rather straightforward machine so I didn't get much out of it as I'd love
 
-![pwned](/assets/img/30-days-challenge/Day4/pwned.png)
+![pwned](/assets/img/30-days-challenge/Day4/pwned.webp)
 
 Also all easy rated machines are done from the CPTS preparation track so I'd expect that from here on the real challenge begins (which became apparent when reviewing ippsec's write up on tomorrow's box)
 
-![pwned](/assets/img/30-days-challenge/Day4/track-profile.png)
+![pwned](/assets/img/30-days-challenge/Day4/track-profile.webp)
 
 # Tomorrow's Box : POV ( Medium Windows)
 

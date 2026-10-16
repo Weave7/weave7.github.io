@@ -10,7 +10,7 @@ The highlight of Day2 is not the machine i pwned but instead the write up for to
 # Part 1 : Pwning a machine 
 Jeeves , a medium windows machine from 2017 (a machine published 9 years ago !!) . I guess everyone already agrees that HTB's rating is inaccurate at best . I mean this is supposed to be a medium machine and Trick(tmrw's machine) is supposed to be the easy one ???!
 Anyways It was a pretty straightforward machine , the one trick i learned is the alternate data streams in windows .
-![pwned](/assets/img/30-days-challenge/Day2/pwned.png)
+![pwned](/assets/img/30-days-challenge/Day2/pwned.webp)
 
 
 # Part 2 : Tomorrow's Trick
@@ -22,6 +22,6 @@ And you know it's gonna be heck of a journey when ippsec starts talking about tr
 
 How I'd describe it ? it's tricky
 
-![my brain is not braining](/assets/memes/brain-is-dead.png)
+![my brain is not braining](/assets/memes/brain-is-dead.webp)
 
 Anyways,Day 2 wrapped up ! 

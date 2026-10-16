@@ -18,7 +18,7 @@ We then get p.agile's hash that's then cracked and we get plain text password . 
 going back to bloodhound again we see that we can do the same attack to ca_svc certificate service account , so we do just that 
 using certipy to check for templates we find that there's a vulnerable ESC16 template that allows us to fake user principal name and the request the NTLM hash of the administrator account ---> pwned 
 
-![pwned](/assets/img/30-days-challenge/Day1/pwned.png)
+![pwned](/assets/img/30-days-challenge/Day1/pwned.webp)
 
 ## Conclusion
 

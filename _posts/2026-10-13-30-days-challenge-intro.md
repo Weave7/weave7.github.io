@@ -18,7 +18,7 @@ My plan constitutes a simple cycle . read/watch writeups ---> review --> solve -
 
 This is my htb labs profile at this point in time :
 
-![htb profile day one](/assets/img/30-days-challenge/intro/htb-profile-day0.png)
+![htb profile day one](/assets/img/30-days-challenge/intro/htb-profile-day0.webp)
 
 # Am I ready ?
 
