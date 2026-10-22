@@ -16,7 +16,7 @@ me and my big mouth ! I have to admit though that apart from syntax problems (ma
 
 nothing worked as intended . Certipy.exe ? for some reason I can't execute it . Certify.exe ? yeah i had to compile it myself ... I DON'T HAVE A WINDOWS BOX !!!! so that ruined part of my day . Oh yeah and that writing ACLs to a ceritificate to make it intensionally vulnerable to ESC1 ? yeah I understood next to nothing . I don't even feel good about getting that second flag it took me too much too much time for someone following a writeup !!
 
-![third of mythical](/assets/img/30-days-challenge/Day10/progress.webp)
+![third of mythical](/assets/img/30-days-challenge/Day10/mythical.webp)
 
 
 # Tomorrow's Machine : Media (medium windows again)
