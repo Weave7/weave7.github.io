@@ -10,7 +10,7 @@ tags: [HackTheBox,brainf*ck]
 
 me and my big mouth ! I have to admit though that apart from syntax problems (mainly problems with using evil-winrm and smbclient with kerberoas authentication) I did well without looking at the write up . What ruined my Day however was mythical !!!
 
-![pwned](/assets/img/30-days-challenge/Day10/mythical.webp)
+![pwned](/assets/img/30-days-challenge/Day10/pwned.webp)
 
 ## the second flag of Mythical (mini pro lab) made me hate my life 
 
