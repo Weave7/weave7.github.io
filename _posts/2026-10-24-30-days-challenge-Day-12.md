@@ -15,4 +15,4 @@ today was not a good day
 yeah I honestly could'nt focus much on the walkthrough , i did take some notes though but I bet it's gonna be a challenge 
 
 
-Anyways,Day 10 wrapped up ! 
+Anyways,Day 12 wrapped up ! 
