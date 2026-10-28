@@ -6,7 +6,7 @@ tags: [HackTheBox,brainf*ck]
 --- 
 
 
-# Pwning VulnCicada 
+# Pwning Voleur 
 
 me and my big mouth ! I have to admit though that apart from syntax problems (mainly problems with using evil-winrm and smbclient with kerberoas authentication) I did well without looking at the write up . What ruined my Day however was mythical !!!
 
