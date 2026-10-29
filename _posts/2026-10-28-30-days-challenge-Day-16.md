@@ -16,7 +16,7 @@ Like I said it really just serves as a confidence boost even though it is in the
 ![pwned](/assets/img/30-days-challenge/Day16/pwned.webp)
 
 
-# Tomorrow's(which is Today) Machine : Active (Easy Windows)
+# Tomorrow's Machine : Active (Easy Windows)
 
 Hopefully another confidence boost
 
